@@ -1,4 +1,4 @@
-SELECT Employees.FirstName, Employees.LastName, Employees.Title, SUM(OrderDetails.Quantity) * SUM(Products.UnitPrice) AS TotalRevenue
+SELECT Employees.FirstName, Employees.LastName, Employees.Title, SUM(OrderDetails.Quantity * Products.UnitPrice) AS TotalRevenue
 FROM Employees 
 LEFT JOIN Orders 
 ON Employees.EmployeeID=Orders.EmployeeID
@@ -7,7 +7,7 @@ ON Orders.OrderID=OrderDetails.OrderID
 JOIN Products
 ON Products.ProductID=OrderDetails.ProductID
 GROUP BY Employees.EmployeeID
-HAVING TotalRevenue>10000000
+HAVING TotalRevenue>100000
 ORDER BY TotalRevenue DESC
 ;
 

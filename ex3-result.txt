@@ -1,9 +1,8 @@
 FirstName   LastName    Title                 TotalRevenue
 ----------  ----------  --------------------  ------------
-Margaret    Peacock     Sales Representative  118734515.52
-Janet       Leverling   Sales Representative  72743676.199
-Nancy       Davolio     Sales Representative  72658630.8  
-Andrew      Fuller      Vice President, Sale  43601086.2  
-Laura       Callahan    Inside Sales Coordin  40093214.76 
-Robert      King        Sales Representative  23446572.76 
-Michael     Suyama      Sales Representative  14457208.27 
+Margaret    Peacock     Sales Representative  275109.98   
+Janet       Leverling   Sales Representative  225605.47   
+Nancy       Davolio     Sales Representative  215717.79   
+Andrew      Fuller      Vice President, Sale  185395.12   
+Robert      King        Sales Representative  151602.19   
+Laura       Callahan    Inside Sales Coordin  143950.86   
