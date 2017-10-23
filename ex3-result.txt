@@ -1,0 +1,9 @@
+Nancy|Davolio|Sales Representative|72658630.8
+Andrew|Fuller|Vice President, Sales|43601086.2
+Janet|Leverling|Sales Representative|72743676.1999999
+Margaret|Peacock|Sales Representative|118734515.52
+Steven|Buchanan|Sales Manager|8964184.68
+Michael|Suyama|Sales Representative|14457208.27
+Robert|King|Sales Representative|23446572.76
+Laura|Callahan|Inside Sales Coordinator|40093214.76
+Anne|Dodsworth|Sales Representative|9278223.3
