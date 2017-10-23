@@ -1,0 +1,8 @@
+*.swp
+
+test.db
+test.sed
+test.sql
+data/
+northwind.db
+northwind-mongo/
